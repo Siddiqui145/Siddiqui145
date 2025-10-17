@@ -67,7 +67,7 @@ My key interests include:
 * 🔔 Parents get app notifications to not miss any updates
 * 💳 Useful Links & details of school added for any query support
 
-📦 **Published on Google Play:** [Almir Urdu](https://play.google.com/store/apps/details?id=com.schoolys.apps)
+📦 **Published on Google Play:** [Almir Urdu](https://play.google.com/store/apps/details?id=com.schooly.apps)
 
 ---
 
