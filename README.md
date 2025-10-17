@@ -53,6 +53,26 @@ My key interests include:
 
 ---
 
+---
+
+### [✨ ALmir Urdu School – An Administrative Application](#)
+
+*An App for parents to check important school updates & notifications from teachers.*
+
+🔹 **Built With:** Flutter, Firebase (Auth, Firestore, Storage, FCM)
+🔹 **Features:**
+
+* 💬 Teachers post important notifications & exam updates
+* 💼 Admin tasks easier with multiple document generation & students data saving
+* 🔔 Parents get app notifications to not miss any updates
+* 💳 Useful Links & details of school added for any query support
+
+📦 **Published on Google Play:** [Shayar Minds](https://play.google.com/store/apps/details?id=com.schoolys.apps)
+
+---
+
+---
+
 ### [🥗 Dairy Nearby – Food Ordering & Delivery Platform](#)
 
 *A modern food delivery app with admin dashboard features for product management and notifications.*
