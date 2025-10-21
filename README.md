@@ -151,7 +151,7 @@ My key interests include:
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn] (https://www.linkedin.com/in/taha-siddiqui-842246246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📱 Play Store – DevNestApps (https://play.google.com/store/apps/developer?id=Dev+Nest+Apps)
+- 📱 Play Store – DevNestApps (https://play.google.com/store/apps/dev?id=8154985595326862860)
 - 💻 GitHub: [Siddiqui145](https://github.com/Siddiqui145)
 - 📧 Email: siddiqui.staha@gmail.com
 - 🌐 Portfolio: https://tahasiddiquiportfolio.vercel.app/
